@@ -14,3 +14,7 @@ test_set = subset(dataset, split == FALSE)
 # Feature Scaling
 # training_set = scale(training_set)
 # test_set = scale(test_set)
+
+
+
+###put everything in comments, ctrl+shift+C

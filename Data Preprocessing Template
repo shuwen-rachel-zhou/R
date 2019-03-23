@@ -8,7 +8,7 @@ dataset = read.csv('Data.csv')
 install.packages('caTools')
 library(caTools)
 
-# This is similar to Python set random sample to 0 to have the same result
+# This is similar to Python set random state=0 to have the same result
 set.seed(123)
 
 
